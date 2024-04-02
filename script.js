@@ -23,24 +23,30 @@ let fungusHP = 0
 let attackPoints = 0
 
 function arcaneScepter(event) {
-
+    let arcaneAP = 12;
+    let arcaneHP = 14;
 
 console.log("Arcane Scepter!");
 }
 
 function entangle(event) {
+    let entangleAP = 23;
+    let entangleHP =9;
     
     
 console.log("Entangle!");
 }
 
 function dragonBlade(event) {
-
+    let dragonAP = 38;
+    let dragonHP = 4;
 
  console.log("Dragon Blade!");    
 }
 
 function starFire(event) {
+    let starAP = 33;
+    let starHP= 25;
 
 console.log("Star Fire!");
 }
