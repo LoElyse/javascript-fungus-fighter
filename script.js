@@ -18,3 +18,29 @@ function onReady() {
 
 
 onReady()
+
+let fungusHP = 0
+let attackPoints = 0
+
+function arcaneScepter(event) {
+
+
+console.log("Arcane Scepter!");
+}
+
+function entangle(event) {
+    
+    
+console.log("Entangle!");
+}
+
+function dragonBlade(event) {
+
+
+ console.log("Dragon Blade!");    
+}
+
+function starFire(event) {
+
+console.log("Star Fire!");
+}
